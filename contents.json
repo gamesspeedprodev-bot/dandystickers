@@ -29,9 +29,8 @@
         { "image_file": "12.webp", "emojis": ["😍", "💑"] },
         { "image_file": "13.webp", "emojis": ["😍", "💑"] },
         { "image_file": "14.webp", "emojis": ["😘", "🍪"] }
-  
       ]
-    }, 
+    },
     {
       "identifier": "dandypack2",
       "name": "dandypack2",
@@ -62,7 +61,7 @@
         { "image_file": "30.webp", "emojis": ["😘", "🍪"] }
       ]
     },
-      {
+    {
       "identifier": "dandypack3",
       "name": "dandypack3",
       "publisher": "Pack3",
@@ -91,7 +90,7 @@
         { "image_file": "15.webp", "emojis": ["😘", "🍪"] }
       ]
     },
-     {
+    {
       "identifier": "dandypack4",
       "name": "dandypack4",
       "publisher": "Pack4",
@@ -115,10 +114,9 @@
         { "image_file": "24.webp", "emojis": ["😍", "💑"] },
         { "image_file": "25.webp", "emojis": ["😍", "💑"] },
         { "image_file": "26.webp", "emojis": ["😘", "🍪"] }
-        
       ]
     },
-      {
+    {
       "identifier": "dandypack5",
       "name": "dandypack5",
       "publisher": "Pack5",
@@ -146,10 +144,9 @@
         { "image_file": "13.webp", "emojis": ["😭", "💧"] },
         { "image_file": "14.webp", "emojis": ["😭", "💧"] },
         { "image_file": "15.webp", "emojis": ["😍", "♥"] }
-     
       ]
     },
-        {
+    {
       "identifier": "dandypack6",
       "name": "dandypack6",
       "publisher": "Pack6",
@@ -179,7 +176,7 @@
         { "image_file": "30.webp", "emojis": ["😘", "🍪"] }
       ]
     },
-     {
+    {
       "identifier": "Dandy animated1",
       "name": "Dandy animated1",
       "publisher": "Pack1",
@@ -206,10 +203,9 @@
         { "image_file": "12.webp", "emojis": ["😍", "💑"] },
         { "image_file": "13.webp", "emojis": ["😍", "💑"] },
         { "image_file": "14.webp", "emojis": ["😘", "🍪"] }
-  
       ]
     },
-      {
+    {
       "identifier": "Dandy animated2",
       "name": "Dandy animated2",
       "publisher": "Pack2",
@@ -233,10 +229,9 @@
         { "image_file": "23.webp", "emojis": ["😍", "💑"] },
         { "image_file": "24.webp", "emojis": ["😍", "💑"] },
         { "image_file": "25.webp", "emojis": ["😍", "💑"] }
-     
       ]
     },
-     {
+    {
       "identifier": "DandySWorldCool1",
       "name": "DandySWorldCool1",
       "publisher": "Pack1",
@@ -265,9 +260,8 @@
         { "image_file": "14.webp", "emojis": ["😘", "🍪"] },
         { "image_file": "15.webp", "emojis": ["😘", "🍪"] }
       ]
-    }
-
-     {
+    },
+    {
       "identifier": "DandySWorldCool2",
       "name": "DandySWorldCool2",
       "publisher": "Pack2",
@@ -280,7 +274,6 @@
       "license_agreement_website": "",
       "is_premium": false,
       "stickers": [
-        
         { "image_file": "16.webp", "emojis": ["☕", "🙂"] },
         { "image_file": "17.webp", "emojis": ["😄", "😀"] },
         { "image_file": "18.webp", "emojis": ["😆", "😂"] },
@@ -295,18 +288,7 @@
         { "image_file": "28.webp", "emojis": ["😍", "💑"] },
         { "image_file": "29.webp", "emojis": ["😍", "💑"] },
         { "image_file": "30.webp", "emojis": ["😍", "💑"] }
-     
       ]
     }
-
-    
-
-  
-
-
-    
-
-    
-    
   ]
 }
