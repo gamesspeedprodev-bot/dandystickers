@@ -15,11 +15,11 @@
       "license_agreement_website": "",
       "is_premium": false,
       "stickers": [
-        { "image_file": "1.webp", "emojis": ["☕", "🙂"] },
-        { "image_file": "2.webp", "emojis": ["😄", "😀"] },
-        { "image_file": "3.webp", "emojis": ["😆", "😂"] },
-        { "image_file": "4.webp", "emojis": ["😩", "😰"] },
-        { "image_file": "5.webp", "emojis": ["😭", "💧"] }
+        { "image_file": "1.png", "emojis": ["☕", "🙂"] },
+        { "image_file": "2.png", "emojis": ["😄", "😀"] },
+        { "image_file": "3.png", "emojis": ["😆", "😂"] },
+        { "image_file": "4.png", "emojis": ["😩", "😰"] },
+        { "image_file": "5.png", "emojis": ["😭", "💧"] }
         
       ]
     },
@@ -36,13 +36,13 @@
       "license_agreement_website": "",
       "is_premium": false,
       "stickers": [
-        { "image_file": "1.webp", "emojis": ["☕", "🙂"] },
-        { "image_file": "2.webp", "emojis": ["😄", "😀"] },
-        { "image_file": "3.webp", "emojis": ["😆", "😂"] },
-        { "image_file": "4.webp", "emojis": ["😩", "😰"] },
-        { "image_file": "5.webp", "emojis": ["😭", "💧"] },
-        { "image_file": "6.webp", "emojis": ["😭", "💧"] },
-        { "image_file": "7.webp", "emojis": ["😭", "💧"] }
+        { "image_file": "1.png", "emojis": ["☕", "🙂"] },
+        { "image_file": "2.png", "emojis": ["😄", "😀"] },
+        { "image_file": "3.png", "emojis": ["😆", "😂"] },
+        { "image_file": "4.png", "emojis": ["😩", "😰"] },
+        { "image_file": "5.png", "emojis": ["😭", "💧"] },
+        { "image_file": "6.png", "emojis": ["😭", "💧"] },
+        { "image_file": "7.png", "emojis": ["😭", "💧"] }
         
       ]
     },
@@ -60,11 +60,11 @@
       "license_agreement_website": "",
       "is_premium": false,
       "stickers": [
-        { "image_file": "1.webp", "emojis": ["☕", "🙂"] },
-        { "image_file": "2.webp", "emojis": ["😄", "😀"] },
-        { "image_file": "3.webp", "emojis": ["😆", "😂"] },
-        { "image_file": "4.webp", "emojis": ["😩", "😰"] },
-        { "image_file": "5.webp", "emojis": ["😭", "💧"] }
+        { "image_file": "1.png", "emojis": ["☕", "🙂"] },
+        { "image_file": "2.png", "emojis": ["😄", "😀"] },
+        { "image_file": "3.png", "emojis": ["😆", "😂"] },
+        { "image_file": "4.png", "emojis": ["😩", "😰"] },
+        { "image_file": "5.png", "emojis": ["😭", "💧"] }
       
         
       ]
@@ -83,9 +83,9 @@
       "license_agreement_website": "",
       "is_premium": false,
       "stickers": [
-        { "image_file": "1.webp", "emojis": ["☕", "🙂"] },
-        { "image_file": "2.webp", "emojis": ["😄", "😀"] },
-        { "image_file": "3.webp", "emojis": ["😆", "😂"] }
+        { "image_file": "1.png", "emojis": ["☕", "🙂"] },
+        { "image_file": "2.png", "emojis": ["😄", "😀"] },
+        { "image_file": "3.png", "emojis": ["😆", "😂"] }
      
         
       ]
